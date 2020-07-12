@@ -1,2 +1,2 @@
-# Kickstaeter_Analysis_AB
-Performing Analysis on Kickstarter
+# Kickstarter_Analysis_AB
+An Analysis on Kickstarter Campaigns
