@@ -6,7 +6,7 @@ This analysis is focusing success or failure of campaign based on launch date an
 
 
 ## Analysis and Challenges
-Analysis is based on data set  provided for past campaigns.The excel sheet [Kickstarter_Challenge]( includes launch date,Outcome,goal,pledged amount,parent/sub categories
+Analysis is based on data set  provided for past campaigns.
 ### Analysis of Outcomes Based on Launch Date
 
 ### Analysis of Outcomes Based on Goals
