@@ -1,2 +1,16 @@
-# Kickstarter_Analysis_AB
-An Analysis on Kickstarter Campaigns
+## Kickstarting for Louise's Play with Excel
+
+## Overview of Project
+This analysis will help Lousie  to decide when and what will be goal amount to fund campaign for  her play.
+This analysis is focusing success or failure of campaign based on launch date and goal amount of campaign.
+
+
+## Analysis and Challenges
+Analysis is based on data set  provided for past campaigns.The excel sheet [Kickstarter_Challenge]( includes launch date,Outcome,goal,pledged amount,parent/sub categories
+### Analysis of Outcomes Based on Launch Date
+
+### Analysis of Outcomes Based on Goals
+
+### Challenges and Difficulties Encountered
+
+## Results
