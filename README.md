@@ -9,6 +9,7 @@ This analysis is focusing success or failure of campaign based on launch date an
 
 [Kickstarter_challenge](kickstarter_challenge.xlsx)
  ,From this excel sheet outcomes are analyzed based on launch date and goal .
+ 
 ### Analysis of Outcomes Based on Launch Date
 - The most successful campaigns and the maximum number of campaigns started in the month of May and June.
 
@@ -20,6 +21,9 @@ This analysis is focusing success or failure of campaign based on launch date an
 
 ### Analysis of Outcomes Based on Goals
 
+- There is 75% chances to fully fund the campaign if goal amount is less than $5000 and 78% when goal amount is between$35000and $44999.
+
+- There is 94% chances the campaign will fail if goal amount is more than $45000.
 
 ![Chart:2](https://github.com/ajinderbains/Kickstaeter_Analysis_AB/blob/master/Resources/Outcomes_VS_Goals.png)
 
