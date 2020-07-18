@@ -32,11 +32,11 @@ This analysis is focusing success or failure of campaign based on launch date an
 ### Challenges and Difficulties Encountered
 - To find outcomes based on launch date,I have to convert launched date column to DATE format,for which i struggled a bit but evantually found the correct formula.
 
--I also have challanged to separate the parent and subcategory as in given data set it is in same column.
+- I also have challanged to separate the parent and subcategory as in given data set it is in same column.
 
--If I have given chance then i would have used filter on subcategory "play " to find the outcome VS launch date instead of parent category "theater".
+- If I have given chance then i would have used filter on subcategory "play " to find the outcome VS launch date instead of parent category "theater".
 
--If I would have to change the theater outcome VS launch date then i would have found percentages(Averages) of outcome.
+- If I would have to change the theater outcome VS launch date then i would have found percentages(Averages) of outcome.
 
 
 ## Results
