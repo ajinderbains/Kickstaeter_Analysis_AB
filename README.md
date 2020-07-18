@@ -20,6 +20,9 @@ This analysis is focusing success or failure of campaign based on launch date an
 
 ### Analysis of Outcomes Based on Goals
 
+
+![Chart:2](https://github.com/ajinderbains/Kickstaeter_Analysis_AB/blob/master/Resources/Outcomes_VS_Goals.png)
+
 ### Challenges and Difficulties Encountered
 
 ## Results
