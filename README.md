@@ -8,7 +8,7 @@ This analysis is focusing success or failure of campaign based on launch date an
 ## Analysis and Challenges
 
 [Kickstarter_challenge](kickstarter_challenge.xlsx)
- ,From this excel sheet outcomes are analyzed based on launch date and goal .
+ ,this excel sheet is used to analyse outcomes based on launch date and goal .
  
  
 ### Analysis of Outcomes Based on Launch Date
@@ -37,6 +37,8 @@ This analysis is focusing success or failure of campaign based on launch date an
 - If I have given chance then i would have used filter on subcategory "play " to find the outcome VS launch date instead of parent category "theater".
 
 - If I would have to change the theater outcome VS launch date then i would have found percentages(Averages) of outcome.
+
+- I would have also added another chart with the comparison of number of backers for "play" category and all othet categories.which will be helpful to find how much people support.
 
 
 ## Results
